@@ -11,6 +11,9 @@
 		024CF6D12873FAF400FC5801 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024CF6D02873FAF400FC5801 /* ContentView.swift */; };
 		024CF6D62873FAF500FC5801 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 024CF6D52873FAF500FC5801 /* Preview Assets.xcassets */; };
 		024CF6DF2873FDB000FC5801 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 024CF6DE2873FDB000FC5801 /* Assets.xcassets */; };
+		024CF6E32874030E00FC5801 /* NarutoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024CF6E22874030E00FC5801 /* NarutoView.swift */; };
+		024CF6E52874062400FC5801 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024CF6E42874062400FC5801 /* Constants.swift */; };
+		024CF6EB28741F0A00FC5801 /* SnowFlakes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024CF6EA28741F0A00FC5801 /* SnowFlakes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		024CF6D02873FAF400FC5801 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		024CF6D52873FAF500FC5801 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		024CF6DE2873FDB000FC5801 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		024CF6E22874030E00FC5801 /* NarutoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NarutoView.swift; sourceTree = "<group>"; };
+		024CF6E42874062400FC5801 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		024CF6EA28741F0A00FC5801 /* SnowFlakes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowFlakes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 				024CF6CE2873FAF400FC5801 /* NarutoAnimationApp.swift */,
 				024CF6DE2873FDB000FC5801 /* Assets.xcassets */,
 				024CF6D02873FAF400FC5801 /* ContentView.swift */,
+				024CF6EA28741F0A00FC5801 /* SnowFlakes.swift */,
+				024CF6E22874030E00FC5801 /* NarutoView.swift */,
+				024CF6E42874062400FC5801 /* Constants.swift */,
 				024CF6D42873FAF500FC5801 /* Preview Content */,
 			);
 			path = NarutoAnimation;
@@ -138,7 +147,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				024CF6D12873FAF400FC5801 /* ContentView.swift in Sources */,
+				024CF6E32874030E00FC5801 /* NarutoView.swift in Sources */,
 				024CF6CF2873FAF400FC5801 /* NarutoAnimationApp.swift in Sources */,
+				024CF6E52874062400FC5801 /* Constants.swift in Sources */,
+				024CF6EB28741F0A00FC5801 /* SnowFlakes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
