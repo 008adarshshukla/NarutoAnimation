@@ -48,5 +48,5 @@ struct SnowFlakes: UIViewRepresentable {
     }
     func updateUIView(_ uiView: UIView, context: Context) {
     }
-    typealias UIViewType = UIView
+    //typealias UIViewType = UIView
 }
