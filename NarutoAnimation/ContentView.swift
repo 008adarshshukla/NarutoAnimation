@@ -12,14 +12,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
-    var body: some View {
+public struct NarutoContentView: View {
+    public var body: some View {
         NarutoView()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        NarutoContentView()
     }
 }
